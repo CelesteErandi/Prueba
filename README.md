@@ -1,2 +1,2 @@
 # Prueba
-Este es un ejemplo
+Este es un ejemplo para entender como funcionan las branches.
